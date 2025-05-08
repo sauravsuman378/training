@@ -23,7 +23,7 @@ public class GroceryBillingSystem {
         // Relational & Logical operators
         boolean isEligibleForFreeGift = (totalAmount > 1000) && (quantity > 5);
 
-        // Output the billing summary
+        // Output the billing summary.
         System.out.println("Grocery Store Bill");
         System.out.println("Item Price: Rs." + itemPrice);
         System.out.println("Quantity Purchased: " + quantity);
