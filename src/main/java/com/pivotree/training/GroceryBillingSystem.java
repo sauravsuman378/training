@@ -30,7 +30,7 @@ public class GroceryBillingSystem {
         System.out.println("Subtotal: ₹" + subtotal);
         System.out.println("Discount Applied: ₹" + discount);
         System.out.println("Total Payable: ₹" + totalAmount);
-        System.out.println("Free Gift Eligibility: " + (isEligibleForFreeGift ? "Yes 🎁" : "No"));
+        System.out.println("Free Gift Eligibility: " + (isEligibleForFreeGift ? "Yes" : "No"));
 
     }
 }
