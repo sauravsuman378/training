@@ -5,7 +5,7 @@ public class GroceryBillingSystem {
     public static void main(String[] args) {
 
         // Sample item data
-        double itemPrice = 500.0;  // price per item in
+        double itemPrice = 400.0;  // price per item in Rs.
         int quantity = 20;
 
         // Unary operator
