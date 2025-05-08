@@ -5,7 +5,7 @@ public class GroceryBillingSystem {
     public static void main(String[] args) {
 
         // Sample item data
-        double itemPrice = 500.0;  // price per item in ₹
+        double itemPrice = 500.0;  // price per item in
         int quantity = 20;
 
         // Unary operator
@@ -25,11 +25,11 @@ public class GroceryBillingSystem {
 
         // Output the billing summary
         System.out.println("======= Grocery Store Bill =======");
-        System.out.println("Item Price: ₹" + itemPrice);
+        System.out.println("Item Price: Rs." + itemPrice);
         System.out.println("Quantity Purchased: " + quantity);
-        System.out.println("Subtotal: ₹" + subtotal);
-        System.out.println("Discount Applied: ₹" + discount);
-        System.out.println("Total Payable: ₹" + totalAmount);
+        System.out.println("Subtotal: Rs." + subtotal);
+        System.out.println("Discount Applied: Rs." + discount);
+        System.out.println("Total Payable: Rs" + totalAmount);
         System.out.println("Free Gift Eligibility: " + (isEligibleForFreeGift ? "Yes" : "No"));
 
     }
