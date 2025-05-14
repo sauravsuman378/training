@@ -1,4 +1,4 @@
-package com.pivotree.training;
+package com.pivotree.training.OperatorsConditionalStatementsAndLoop;
 
 public class HelloWorld {
     public static void main(String[] args) {

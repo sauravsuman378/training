@@ -1,4 +1,4 @@
-package com.pivotree.training;
+package com.pivotree.training.OperatorsConditionalStatementsAndLoop;
 
 import java.util.Scanner;
 
